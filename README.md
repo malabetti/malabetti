@@ -7,6 +7,6 @@
 <p align="center">I am Pedro Betti an IT student from Federal Institute of Education, Science and Technology</p>
 <hr>
 <div display="flex">
-   <img src="https://github-readme-stats.vercel.app/api?username=malabetti" width=69% height=100px/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malabetti&langs_count=8" width=30% height=100px/>
+   <img src="https://github-readme-stats.vercel.app/api?username=malabetti" width=69% height=200px/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malabetti&langs_count=8" width=30% height=200px/>
 </div>
