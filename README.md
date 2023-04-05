@@ -5,4 +5,4 @@
 <h1 align="center">Hello 👋</h1>
 <p align="center">I am Pedro Betti an IT student from Federal Institute of Education, Science and Technology</p>
 <hr>
-![malabetti Status](https://github-readme-stats.vercel.app/api?username=malabetti&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malabetti)](https://github.com/malabetti/github-readme-stats)
