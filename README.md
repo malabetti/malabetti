@@ -3,4 +3,6 @@
 </div>
 <hr>
 <h1 align="center">Hello 👋</h1>
-<p align="center" color="red">I am Pedro Betti an IT student from Federal Institute of Education, Science and Technology</p>
+<p align="center">I am Pedro Betti an IT student from Federal Institute of Education, Science and Technology</p>
+<hr>
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
