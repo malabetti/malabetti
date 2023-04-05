@@ -8,5 +8,5 @@
 <hr>
 <div display="flex">
    <img src="https://github-readme-stats.vercel.app/api?username=malabetti" height=200px/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malabetti&langs_count=8" height=200px width=90%/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malabetti&langs_count=8" height=200px width=10%/>
 </div>
