@@ -6,6 +6,6 @@
 <h1 align="center">Hello 👋</h1>
 <p align="center">I am Pedro Betti an IT student from Federal Institute of Education, Science and Technology</p>
 <hr>
-<div display="flex" style="justify-content: center">
-   <img src="https://github-readme-stats.vercel.app/api?username=malabetti&theme=cobalt"/>
+<div display="flex">
+   <img align=center src="https://github-readme-stats.vercel.app/api?username=malabetti&theme=cobalt"/>
 </div>
