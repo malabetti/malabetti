@@ -6,7 +6,7 @@
 <h1 align="center">Hello 👋</h1>
 <p align="center">I am Pedro Betti an IT student from Federal Institute of Education, Science and Technology</p>
 <hr>
-<div display="flex">
-   <img src="https://github-readme-stats.vercel.app/api?username=malabetti&theme=cobalt" margin=10%/>
+<div display="flex" align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=malabetti&theme=cobalt"/>
    <img src="https://github.com/malabetti/malabetti/blob/output/github-contribution-grid-snake.svg"/>
 </div>
