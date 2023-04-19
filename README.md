@@ -1,7 +1,7 @@
 <style>
      div {
           display: flex;
-          justify-content: space-around;
+          justify-content: center;
      }
 </style>
 <h1>Pedro Betti</h1>
