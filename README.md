@@ -8,5 +8,5 @@
 <hr>
 <div display="flex">
    <img width=50% src="https://github-readme-stats.vercel.app/api?username=malabetti&theme=cobalt"/>
-   <img width=50% src="ttps://github.com/malabetti/malabetti/blob/output/github-contribution-grid-snake.gif"/>
+   <img width=50% src="https://github.com/malabetti/malabetti/blob/output/github-contribution-grid-snake.gif"/>
 </div>
