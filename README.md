@@ -7,5 +7,5 @@
 <p align="center">I am Pedro Betti an IT student from Federal Institute of Education, Science and Technology</p>
 <hr>
 <div display="flex">
-   <img height=40% width=100% src="https://github-readme-stats.vercel.app/api?username=malabetti&theme=cobalt"/>
+   <img width=100% src="https://github-readme-stats.vercel.app/api?username=malabetti&theme=cobalt"/>
 </div>
