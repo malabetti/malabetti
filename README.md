@@ -8,6 +8,6 @@
 <hr>
 <div display="flex" align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=malabetti&theme=cobalt"/>
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+   <img src="https://skillicons.dev/icons?i=python,kotlin,c,cpp"/>
    <img src="https://github.com/malabetti/malabetti/blob/output/github-contribution-grid-snake.svg"/>
 </div>
