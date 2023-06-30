@@ -5,9 +5,9 @@
 </div>
 <hr>
 <h2 align="center">I am Pedro Betti an IT student from Federal Institute of Education, Science and Technology</h2>
+<img src="https://skillicons.dev/icons?i=python,c,kotlin,cpp" align="center"/>
 <hr>
 <div display="flex" align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=malabetti&theme=cobalt"/>
    <img src="https://github.com/malabetti/malabetti/blob/output/github-contribution-grid-snake.svg"/><br>
-   <img src="https://skillicons.dev/icons?i=python,c,kotlin,cpp"/>
 </div>
