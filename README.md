@@ -9,7 +9,7 @@
 </div>
 <hr>
 <div display="flex" align="center">
-     <h2>I am <b color="green">Pedro Betti</b> an IT student from Federal Institute of Education, Science and Technology</h2>
+     <h2>I am <b>Pedro Betti</b> an IT student from Federal Institute of Education, Science and Technology</h2>
      <img src="https://skillicons.dev/icons?i=python,c,kotlin,cpp,java"/>
 </div>
 <hr>
