@@ -1,6 +1,6 @@
 <h1>Pedro Betti</h1>
 <div id="header" style="display:flex;justify-content:center">
-     <img src="https://github.com/malabetti/malabetti/assets/119712536/b081c515-d391-43ba-bf02-71c66bcfd448"/>
+     <img src="https://github.com/malabetti/malabetti/assets/119712536/b081c515-d391-43ba-bf02-71c66bcfd448" height=300px/>
      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGU3ZWVlZTg1ZDdiYTgzZmJlZjY3MGEwZDQ1NTE0YjUxM2M2ZmZlYSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 <hr>
