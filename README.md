@@ -5,12 +5,13 @@
 </div>
 <hr>
 <div display="flex" align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=malabetti&theme=cobalt"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malabetti&them=cobalt&hide_progress=true"/>
+   <img src="https://github.com/malabetti/malabetti/blob/output/github-contribution-grid-snake.svg"/><br>
+</div>
+<hr>
+<div display="flex" align="center">
      <h2>I am Pedro Betti an IT student from Federal Institute of Education, Science and Technology</h2>
      <img src="https://skillicons.dev/icons?i=python,c,kotlin,cpp"/>
 </div>
 <hr>
-<div display="flex" align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=malabetti&theme=cobalt"/>
-   <img src="https://github.com/malabetti/malabetti/blob/output/github-contribution-grid-snake.svg"/><br>
-
-</div>
