@@ -15,5 +15,5 @@
 <hr>
 <div display="flex" align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=malabetti&theme=cobalt" height=200px width=40%/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malabetti&theme=cobalt&hide_progress=true" height=200px width=59%/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malabetti&theme=cobalt&hide_progress=true" height=200px width=40%/>
 </div>
