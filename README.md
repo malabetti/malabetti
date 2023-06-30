@@ -5,8 +5,8 @@
 </div>
 <hr>
 <div display="flex" align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=malabetti&theme=cobalt"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malabetti&them=cobalt&hide_progress=true"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=malabetti&theme=cobalt" height=200px/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malabetti&theme=cobalt&hide_progress=true" height=200px/>
    <img src="https://github.com/malabetti/malabetti/blob/output/github-contribution-grid-snake.svg"/><br>
 </div>
 <hr>
