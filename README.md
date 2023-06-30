@@ -3,8 +3,10 @@
      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGU3ZWVlZTg1ZDdiYTgzZmJlZjY3MGEwZDQ1NTE0YjUxM2M2ZmZlYSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 <hr>
-<img src="https://github.com/malabetti/malabetti/assets/119712536/b081c515-d391-43ba-bf02-71c66bcfd448"/>
-<p align="center">I am Pedro Betti an IT student from Federal Institute of Education, Science and Technology</p>
+<main align="center">
+     <img src="https://github.com/malabetti/malabetti/assets/119712536/b081c515-d391-43ba-bf02-71c66bcfd448" height=100px width=100px/>
+     <p align="center">I am Pedro Betti an IT student from Federal Institute of Education, Science and Technology</p>
+</main>
 <hr>
 <div display="flex" align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=malabetti&theme=cobalt"/>
