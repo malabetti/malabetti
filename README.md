@@ -7,13 +7,17 @@
 <!--<div display="flex" align="center">
    <img src="https://github.com/malabetti/malabetti/blob/output/github-contribution-grid-snake.svg"/><br>
 </div>-->
-<hr>
 <div display="flex" align="center">
      <h2>I am <b>Pedro Betti</b> an IT student from Federal Institute of Education, Science and Technology</h2>
      <img src="https://skillicons.dev/icons?i=python,c,kotlin,cpp,java,mysql"/>
 </div>
 <hr>
-<div display="flex" align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=malabetti&theme=cobalt" height=200px width=49%/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malabetti&theme=cobalt&hide_progress=true" height=200px width=50%/>
-</div>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=malabetti&theme=cobalt" height=200px width=100% />
+<td width="50%" align="center">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=malabetti&theme=cobalt&hide_progress=true" height=200px width=90%/>
+  </td>
+</tr>
+</table>
