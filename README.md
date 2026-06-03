@@ -12,17 +12,12 @@
 
 <div align="center">
      <h2>I am <b>Pedro Betti</b>, an IT student from the Federal Institute of Education, Science and Technology</h2>
-     <img src="https://skillicons.dev/icons?i=python,c,kotlin,cpp,java,mysql"/>
+     <img src="https://skillicons.dev/icons?i=python,scikitlearn,mysql"/>
+     <img src="https://skillicons.dev/icons?i=,matlab,latex,octave"/>
 </div>
 <hr>
 
-<table align="center">
-  <tr border="none">
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=malabetti&theme=cobalt" height="200px" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malabetti&theme=cobalt&hide_progress=true" height="200px" width="90%"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=malabetti&show_icons=true&theme=cobalt&locale=pt-br" height="180px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=malabetti&theme=cobalt&hide_progress=true" height="180px"/>
+</div>
