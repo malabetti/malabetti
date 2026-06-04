@@ -20,6 +20,5 @@ I am also an IT technician from Federal Institute of São Paulo.</h2>
 <hr>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=malabetti&show_icons=true&theme=cobalt&locale=pt-br" height="180px"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=malabetti&theme=cobalt&hide_progress=true" height="180px"/>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=malabetti&theme=solarized-dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
