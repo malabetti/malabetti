@@ -6,11 +6,9 @@
 <hr> -->
 <h2>I am <b>Pedro Betti</b>, and I currently study Applied and Computational Mathematics at State University of Campinas.
 I am also an IT technician from Federal Institute of São Paulo.</h2>
-<div>
-     <img src="https://skillicons.dev/icons?i=,,,,,,python,scikitlearn,mysql"/> <br>
-     <img src="https://skillicons.dev/icons?i=,,,,,,,matlab,latex,octave"/> <br>
-     <img src="https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=,,,,,,,,flask,firebase,unity"/> <br>
-     <img src="https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=,,,,,,,,,c,cpp,java"/>
+<div align=center>
+     <img src="https://skillicons.dev/icons?i=python,scikitlearn,flask,mysql,firebase,unity"/> <br>
+     <img src="https://skillicons.dev/icons?i=matlab,latex,octave"/> 
 </div>
 <hr>
 
